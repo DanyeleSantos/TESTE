@@ -1,0 +1,10 @@
+C:\Users\Public\Source\Repos\Teste22\Teste22\bin\Debug\Teste22.exe.config
+C:\Users\Public\Source\Repos\Teste22\Teste22\bin\Debug\Teste22.exe
+C:\Users\Public\Source\Repos\Teste22\Teste22\bin\Debug\Teste22.pdb
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.Properties.Resources.resources
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.csproj.GenerateResource.cache
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.exe
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.pdb
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.csproj.AssemblyReference.cache
+C:\Users\Public\Source\Repos\Teste22\Teste22\obj\Debug\Teste22.Form1.resources
